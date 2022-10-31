@@ -1,0 +1,8 @@
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\obj\Debug\Matriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Matriz\Matriz\obj\Debug\Matriz.pdb
