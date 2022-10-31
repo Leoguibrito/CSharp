@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{0B107FFE-63C3-497A-814A-30E8FB95D33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "..\Matriz\Matriz\Matriz.csproj", "{ABAFB0B2-F351-4030-B1C3-35A73BACB812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B107FFE-63C3-497A-814A-30E8FB95D33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B107FFE-63C3-497A-814A-30E8FB95D33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B107FFE-63C3-497A-814A-30E8FB95D33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B107FFE-63C3-497A-814A-30E8FB95D33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAFB0B2-F351-4030-B1C3-35A73BACB812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAFB0B2-F351-4030-B1C3-35A73BACB812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAFB0B2-F351-4030-B1C3-35A73BACB812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAFB0B2-F351-4030-B1C3-35A73BACB812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E523D182-D3D2-405D-B4E9-EAD3FA9821C1}
+	EndGlobalSection
+EndGlobal

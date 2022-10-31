@@ -1,0 +1,8 @@
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\obj\Debug\Vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Vetores\Vetores\obj\Debug\Vetores.pdb
