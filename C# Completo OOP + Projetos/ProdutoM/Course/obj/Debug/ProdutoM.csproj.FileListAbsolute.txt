@@ -1,0 +1,8 @@
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\bin\Debug\Course.exe.config
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\bin\Debug\Course.exe
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\bin\Debug\Course.pdb
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\obj\Debug\ProdutoM.csproj.AssemblyReference.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\obj\Debug\ProdutoM.csproj.SuggestedBindingRedirects.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\obj\Debug\ProdutoM.csproj.CoreCompileInputs.cache
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\obj\Debug\Course.exe
+C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Course\Course\obj\Debug\Course.pdb
