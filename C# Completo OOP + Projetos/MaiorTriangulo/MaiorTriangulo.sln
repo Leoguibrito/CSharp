@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorTriangulo", "MaiorTriangulo\MaiorTriangulo.csproj", "{F5CFE761-FB5B-4CFF-853B-11CEB64DD3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "..\Matriz\Matriz\Matriz.csproj", "{A9E4B1FE-809C-4F58-9227-6C6162BBB193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CFE761-FB5B-4CFF-853B-11CEB64DD3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CFE761-FB5B-4CFF-853B-11CEB64DD3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CFE761-FB5B-4CFF-853B-11CEB64DD3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CFE761-FB5B-4CFF-853B-11CEB64DD3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E4B1FE-809C-4F58-9227-6C6162BBB193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E4B1FE-809C-4F58-9227-6C6162BBB193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E4B1FE-809C-4F58-9227-6C6162BBB193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E4B1FE-809C-4F58-9227-6C6162BBB193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDEC20DB-D936-4F13-8CB9-203913AD1514}
+	EndGlobalSection
+EndGlobal
