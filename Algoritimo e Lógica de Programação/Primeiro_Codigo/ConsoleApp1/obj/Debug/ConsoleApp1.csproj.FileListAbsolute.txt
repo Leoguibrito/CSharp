@@ -1,8 +1,0 @@
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\leogu\Documents\Codigos\C# II .NET\Algoritimo e Lógica de Programação\Primeiro_Codigo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
